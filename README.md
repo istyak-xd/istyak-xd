@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000¢er=true&vCenter=true&width=400&height=HELLO+WORLD+I'M+Istyak+HERE+😊;I Don't+care+about+anyone+I+WILL+TELL+YOU+💁;PLEASE+FOLLOW+MY+GITHUB+ACCOUNT+🙏;ALL+PYTHON+CLONER+TOOLS+😱;SO+LETS+ENJOY+EVERYBODY+🔥+🤙;THANKS+MY+All+SUPPORTERS+🤙+🥰)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000¢er=true&vCenter=true&width=400&height=25&lines=HELLO+WORLD+I'M+Istyak Al Mahmud+HERE+😊;TODAY+I+WILL+TELL+YOU+💁;PLEASE+FOLLOW+MY+GITHUB+ACCOUNT+🙏;ALL+PYTHON+CLONER+TOOLS+😱;SO+LETS+ENJOY+EVERYBODY+🔥+🤙;THANKS+MY+All+SUPPORTERS+🤙+🥰)](https://git.io/typing-svg)
 
  
 
@@ -10,7 +11,7 @@
 
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000¢er=true&vCenter=true&width=400&height=25&lines=YOU+RESPECT+ME+I+RESPECT+YOU+😊;YOU+DISPECT+ME+I+FUCK+YOU+🙂)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000¢er=true&vCenter=true&width=400&height=25&lines=IF+YOU+RESPECT+ME+I+Also+RESPECT+YOU+😊;YOU+DISRESPECT+ME+I+Will+FUCK+YOUR+Mother+🙂)](https://git.io/typing-svg)
 
 # Installation 🦃
 
