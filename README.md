@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000¢er=true&vCenter=true&width=400&height=25&lines=HELLO+WORLD+I'M+ISTYAK+HERE+😊;I DON'T+CARE+ABOUT+ANYONE+I+WILL+TELL+YOU+💁;PLEASE+FOLLOW+MY+GITHUB+ACCOUNT+🙏;ALL+PYTHON+CLONER+TOOLS+😱;SO+LETS+ENJOY+EVERYBODY+🔥+🤙;THANKS+MY+All+SUPPORTERS+🤙+🥰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000¢er=true&vCenter=true&width=400&height=HELLO+WORLD+I'M+Istyak+HERE+😊;I Don't+care+about+anyone+I+WILL+TELL+YOU+💁;PLEASE+FOLLOW+MY+GITHUB+ACCOUNT+🙏;ALL+PYTHON+CLONER+TOOLS+😱;SO+LETS+ENJOY+EVERYBODY+🔥+🤙;THANKS+MY+All+SUPPORTERS+🤙+🥰)](https://git.io/typing-svg)
 
  
 
@@ -32,7 +32,7 @@
 
 - `rm -rf Random-Cloning`
 
-- `git clone --depth=1 https://github.com/istyak-xd
+- `git clone --depth=1 https://github.com/DEMON-404
 
 -  `cd Random-Cloning`
 
